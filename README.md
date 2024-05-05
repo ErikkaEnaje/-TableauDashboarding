@@ -8,7 +8,7 @@
 7. Sort the Amount in descending order (use the icon).
 8. Rename the tab sheet to Sales by Product
 
-Sales by SalesPerson
+# Sales by SalesPerson
 9. Proceed to another tab worksheet.
 10. Drag SalesPerson and Amount to the canvas.
 11. Click Show Me | Horizontal Bar
@@ -16,7 +16,7 @@ Sales by SalesPerson
 13. Click Descending Order in the icon bar.
 14. Rename the sheet by Sales by SalesPerson
 
-Sales by Geography
+# Sales by Geography
 15. Proceed to another tab worksheet
 16. Drag or right click Add to Sheet Geography and Amount
 17. Click Show Me | Pie charts
@@ -24,7 +24,7 @@ Sales by Geography
 19. Select all (ctrl A) and Mark Label | Always Show.
 20. Rename the tab worksheet to Sales by Geography.
 
-Dashboarding
+# Dashboarding
 21. Create/Click New Dashboard tab.
 22. Set Size to Automatic
 23. Drag the 3 sheets into the canvas.
