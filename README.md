@@ -1,14 +1,14 @@
 # TableauDashboarding
-Download and install Tableau Public Desktop.
-Download Awesome Chocolates dataset.
-Open Tableau Public Desktop.
-Connect to Data: Awesome Chocolate.xlsx
-Drag Product and Amount to the canvas.
-Click Show Me | Select Horizontal Bar
-Sort the Amount in descending order (use the icon).
-Rename the tab sheet to Sales by Product
-Sales by SalesPerson
+1. Download and install Tableau Public Desktop.
+2. Download Awesome Chocolates dataset.
+3. Open Tableau Public Desktop.
+4. Connect to Data: Awesome Chocolate.xlsx
+5. Drag Product and Amount to the canvas.
+6. Click Show Me | Select Horizontal Bar
+7. Sort the Amount in descending order (use the icon).
+8. Rename the tab sheet to Sales by Product
 
+Sales by SalesPerson
 Proceed to another tab worksheet.
 Drag SalesPerson and Amount to the canvas.
 Click Show Me | Horizontal Bar
