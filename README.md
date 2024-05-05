@@ -9,26 +9,26 @@
 8. Rename the tab sheet to Sales by Product
 
 Sales by SalesPerson
-Proceed to another tab worksheet.
-Drag SalesPerson and Amount to the canvas.
-Click Show Me | Horizontal Bar
-Click Swap Rows and Columns in the icon bar.
-Click Descending Order in the icon bar.
-Rename the sheet by Sales by SalesPerson
+9. Proceed to another tab worksheet.
+10. Drag SalesPerson and Amount to the canvas.
+11. Click Show Me | Horizontal Bar
+12. Click Swap Rows and Columns in the icon bar.
+13. Click Descending Order in the icon bar.
+14. Rename the sheet by Sales by SalesPerson
+
 Sales by Geography
+15. Proceed to another tab worksheet
+16. Drag or right click Add to Sheet Geography and Amount
+17. Click Show Me | Pie charts
+18. Under the icon bar Select the Entire View to fill up the whole canvas.
+19. Select all (ctrl A) and Mark Label | Always Show.
+20. Rename the tab worksheet to Sales by Geography.
 
-Proceed to another tab worksheet
-Drag or right click Add to Sheet Geography and Amount
-Click Show Me | Pie charts
-Under the icon bar Select the Entire View to fill up the whole canvas.
-Select all (ctrl A) and Mark Label | Always Show.
-Rename the tab worksheet to Sales by Geography.
 Dashboarding
-
-Create/Click New Dashboard tab.
-Set Size to Automatic
-Drag the 3 sheets into the canvas.
-Click the Set as Filter for each sheet to connect.
-Save the workbook as: Awesome Chocolate Dashboard Report
-Get the link of your Dashboard created in Tableau Cloud.
-Submit it to your assignment link
+21. Create/Click New Dashboard tab.
+22. Set Size to Automatic
+23. Drag the 3 sheets into the canvas.
+24. Click the Set as Filter for each sheet to connect.
+25. Save the workbook as: Awesome Chocolate Dashboard Report
+26. Get the link of your Dashboard created in Tableau Cloud.
+27. Submit it to your assignment link
